@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @technodev59
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning reactnative and node
